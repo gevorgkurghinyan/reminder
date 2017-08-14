@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="action_addItem">Add item</string>
+    <string name="itemName">Name</string>
+    <string name="dueDate">Due Date</string>
+    <string name="notes">Notes</string>
+    <string name="priorityLevel">Priority Level</string>
+    <string name="status">Status</string>
+    <string name="priority_low">LOW</string>
+    <string name="priority_medium">MEDIUM</string>
+    <string name="priority_high">HIGH</string>
+    <string name="status_todo">TO_DO</string>
+    <string name="status_done">DONE</string>
+    <string name="action_delete_all_entries">Delete all reminders</string>
+    <string name="editor_activity_title_new_reminder">New reminder</string>
+    <string name="editor_activity_title_edit_reminder">Edit reminder</string>
+    <string name="action_delete_item">Delete item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this reminder?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+</resources>
